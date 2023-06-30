@@ -24,7 +24,9 @@
 - 👯 I’m looking to collaborate on **Cisco**  
   </td>
   <td valign="top" width="50%">
+<div align="right">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW13ZHpqeHIxZzg0YnlsbDNqZWF0dG1hcm1zOTlyM2JpOHRwaTNzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif" align="center" style="width: 50%" />
+</div>  
 
   </td>
   </tr>
