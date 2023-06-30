@@ -14,11 +14,11 @@
 </a>  
 
 
- 
-<table width="100%">
+ <br/>  
+<table>
  <tbody>
-<tr width="100%">
-  <td valign="left" width="50%">
+<tr>
+  <td valign="top" width="50%">
     
 - 🔭 I’m currently working on **SERVER-SYSTEM-NETWORK-CİSCO**  
 - 🌱 I’m currently learning **CCNA-CCNP-AZ900**  
@@ -35,8 +35,8 @@
  </tbody>
   
 </table>  
-
-<div align="center">  
+<br/>  
+<div align="left">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -51,40 +51,14 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 </div>
 
-<br/>  
 
 
-## Connect with me  
-
-  
-
-<br/>  
-
-
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kemalcankrlsn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kemalcankrlsn&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
