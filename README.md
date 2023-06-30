@@ -1,22 +1,8 @@
-<div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW13ZHpqeHIxZzg0YnlsbDNqZWF0dG1hcm1zOTlyM2JpOHRwaTNzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi 👋 I'm kemal can me 👨‍💻IT SUPPORT</div>  
-  
-
-- **🔭 I’m currently working on SERVER-SYSTEM-NETWORK-CİSCO**  
-  
-
-- 🌱 I’m currently learning CCNA-CCNP-AZ900  
-  
-
-- 👯 I’m looking to collaborate on Cisco  
-  
-
+### <div align="left">Hi 👋 I'm kemal can me 👨‍💻IT SUPPORT</div>  
+- 🔭 I’m currently working on **SERVER-SYSTEM-NETWORK-CİSCO**  
+- 🌱 I’m currently learning **CCNA-CCNP-AZ900**  
+- 👯 I’m looking to collaborate on **Cisco**  
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
