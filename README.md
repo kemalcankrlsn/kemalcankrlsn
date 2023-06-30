@@ -14,7 +14,6 @@
 </a>  
 
 
- <br/>  
 <table>
  <tbody>
 <tr>
@@ -28,14 +27,11 @@
 <div align="right">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW13ZHpqeHIxZzg0YnlsbDNqZWF0dG1hcm1zOTlyM2JpOHRwaTNzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif" align="center" style="width: 50%" />
 </div>  
-
   </td>
   </tr>
-  
  </tbody>
-  
 </table>  
-<br/>  
+
 <div align="left">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -50,8 +46,6 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 </div>
-
-
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kemalcankrlsn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
