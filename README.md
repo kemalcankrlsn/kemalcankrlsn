@@ -21,7 +21,7 @@
   <td valign="top" width="50%">
 
 - 🔭 I’m currently working on **SERVER-SYSTEM-NETWORK-CİSCO**  
-- 🌱 I’m currently learning **CCNA-CCNP-AZ900**  
+- 🌱 I’m currently learning **CCNA-WİNDOWS SERVER**  
 - 👯 I’m looking to collaborate on **Cisco**
 
   </td>
